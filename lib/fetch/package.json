@@ -1,0 +1,12 @@
+{
+    "name": "fetch",
+    "version": "1.0.0",
+    "description": "",
+    "node": "./node.js",
+    "broswer": "./browser.js",
+    "scripts": {
+      "build": "webpack --mode development",
+      "dev": "webpack-dev-server --mode development"
+    }
+  }
+  

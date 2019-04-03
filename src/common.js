@@ -1,0 +1,2 @@
+alert('tt')
+console.log($)

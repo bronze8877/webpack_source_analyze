@@ -1,0 +1,13 @@
+#app {
+    color: red;
+    background: url('./image/avator.jpg') no-repeat;
+    background-size: contain;
+    width:80px;
+    height: 80px;
+}
+
+.square{
+    width: 100px;
+    height: 100px;
+    transform: translateX(100px);
+}
